@@ -1,8 +1,8 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="./banner.svg" alt="Telegram VPN Worker" width="840">
+<img src="./banner.svg" alt="Telegram Virtual Private Network Sales Bot" width="840">
 
-# Telegram VPN Worker
+# Telegram Virtual Private Network Sales Bot
 
 **ربات تلگرام برای دریافت سفارش و تحویل دستی اشتراک VPN**
 

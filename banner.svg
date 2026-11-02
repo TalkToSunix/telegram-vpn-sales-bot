@@ -1,11 +1,11 @@
-﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
 <defs>
 <linearGradient id="bg" x2="1" y2="1" gradientUnits="objectBoundingBox"><stop stop-color="#10152e"/><stop offset="1" stop-color="#241040"/></linearGradient>
 <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#aaaaff" opacity=".12"/></pattern>
 </defs>
 <rect width="900" height="300" rx="26" fill="url(#bg)"/>
 <rect width="900" height="300" rx="26" fill="url(#grid)"/>
-<g font-family="system-ui,sans-serif"><text x="48" y="79" fill="#6cfde0" font-size="16" letter-spacing="4">TALKTOSUNIX / WORKERS</text><text x="44" y="151" fill="#fff" font-size="62" font-weight="800">Telegram VPN</text><text x="48" y="201" fill="#c4b5fd" font-size="32">Order relay</text><text x="49" y="251" fill="#b4bdd4" font-size="15">TELEGRAM BOT  ·  CLOUDFLARE WORKERS</text></g>
+<g font-family="system-ui,sans-serif"><text x="48" y="79" fill="#6cfde0" font-size="16" letter-spacing="4">TALKTOSUNIX / WORKERS</text><text x="44" y="151" fill="#fff" font-size="38" font-weight="800">Telegram Virtual Private</text><text x="48" y="201" fill="#c4b5fd" font-size="32">Network Sales Bot</text><text x="49" y="251" fill="#b4bdd4" font-size="15">TELEGRAM BOT  ·  CLOUDFLARE WORKERS</text></g>
 <g transform="translate(720 150)">
 <circle r="108" fill="#151e3c" stroke="#a78bfa" stroke-width="2"/>
 <circle r="92" fill="none" stroke="#6cfde0" stroke-dasharray="2 12" stroke-width="3"><animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="22s" repeatCount="indefinite"/></circle>
